@@ -2,8 +2,8 @@
 My first 3D Unity projects with assets and animations
 
 **HOW TO PLAY:**
-click *A* to move left
-click *D* to move right
+click *A* to move left / 
+click *D* to move right / 
 click *space* to jump
 
 **MAIN GOAL:**
